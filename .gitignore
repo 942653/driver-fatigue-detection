@@ -1,0 +1,23 @@
+# 模型文件
+*.pt
+*.onnx
+*.pth
+*.engine
+
+# 虚拟环境
+venv/
+env/
+ai_env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# 其他
+*.mp4
+*.avi
+*.zip
+dataset/

@@ -1,0 +1,5 @@
+train: 'C:\Users\34051\Desktop\Fatigue_Detection_Project\dataset\train\images'
+val: 'C:\Users\34051\Desktop\Fatigue_Detection_Project\dataset\valid\images'
+
+nc: 4
+names: ['neutral', 'microsleep', 'distraction', 'phone_use']
