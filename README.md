@@ -12,7 +12,7 @@
 
 > ⚠️ 请替换为你实际录制的 Demo GIF / 截图
 
-![API 测试结果](dscreenshot.png)
+![API 测试结果](screenshot.png)
 
 ---
 
